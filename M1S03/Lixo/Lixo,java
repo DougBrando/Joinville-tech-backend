@@ -1,0 +1,33 @@
+package br.senai.futurodev.exercicos;
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
+public class Lixo {
+    public static void main(String[] args) {
+        ArrayList<String> categoriaReciclaveis = new ArrayList<>();
+        Scanner entrada = new Scanner(System.in);
+        int limite = 5;
+        int contador = 0;
+
+        System.out.println("Cadastro de Reciclagem");
+        System.out.println("digite ate 5 cartegorias");
+
+        while(contador < limite){
+            System.out.println("Digite a categoria ou 'sair' para encerrar on programa: ");
+            String categoria = entrada.nextLine();
+
+            if (categoria.equalsIgnoreCase("sair")){
+                break;
+            }
+            categoriaReciclaveis.add(categoria);
+            contador ++;
+            System.out.println("Categoria: " + categoria + " adicionada com sucesso");
+            System.out.printf("%nRestam %d vagas%n", (limite  - contador));
+        }
+        System.out.println("Voce adicionou todas as categorias");
+        for (String categoria: categoriaReciclaveis){
+            System.out.println(categoria);
+        }
+    }
+}
