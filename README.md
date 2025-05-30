@@ -16,10 +16,18 @@ Repositorio onde estou hospedando as atividades desenvolvidas no curso Joinville
  - [M1S03 - Ex. 3 - Monitoramento de qualidade do ar](/M1S03/QualidadeAr)
  - [M1S03 - Ex. 4 - Lista de resíduos recicláveis](/M1S03/Lixo)
  - [M1S03 - Ex. 5 - Controle de consumo de energia](/M1S03/ControleConsumoEnergia)
- -  [M1S03 - Ex. 6 - Roteiro de trilha ecológica](/M1S03/TrilhaEcologica)
+ - [M1S03 - Ex. 6 - Roteiro de trilha ecológica](/M1S03/TrilhaEcologica)
 
 #### M1S04 - Métodos, Atributos, Classes e Modificadores
 
 - [M1S04 - Ex. 1 - Classe Árvore](/M1S04/ClasseArvore)
 - [M1S04 - Ex. 2 - Classe EmissaoDeCarbono](/M1S04/EmissaoDeCarbono)
+- [M1S04 - Ex. 3 - Classe Animal](/M1S04/ClasseAnimal)
+- [M1S04 - Ex. 4 - Classe Planta](/M1S04/ClassePlanta)
+- [M1S04 - Ex. 5 - Classe FrequenciaCardiaca](/M1S04/FrequenciaCardiaca)
+- [M1S04 - Ex. 6 - Classe PerfilDeSaude](/M1S04/PerfilDeSaude)
+
+#### M1S05 - Projeto Avaliativo
+
+#### M1S06 - Métodos, Atributos, Classes e Modificadores
 
