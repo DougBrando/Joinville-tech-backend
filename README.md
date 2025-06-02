@@ -36,7 +36,7 @@ Repositorio onde estou hospedando as atividades desenvolvidas no curso Joinville
 - [M1S06 - Ex. 2 - Tabela Matrícula](/M1S06/TabelaMatricula)
 
 #### M1S07 - Spring-Boot
- - [M1S07] - [Spring Boot](/M1S07/Spring-Boot/)
+ - [M1S07] - [Ex. Spring Boot - Coleta Seletiva](/M1S07/Spring-Boot/)
 
 
 
