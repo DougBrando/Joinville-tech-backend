@@ -35,9 +35,14 @@ Repositorio onde estou hospedando as atividades desenvolvidas no curso Joinville
 - [M1S06 - Ex. 3 - Chaves](/M1S06/ChavesPrimarias)
 - [M1S06 - Ex. 2 - Tabela Matrícula](/M1S06/TabelaMatricula)
 
-#### M1S07 - Spring-Boot
- - [M1S07] - [Ex. Spring Boot - Coleta Seletiva](/M1S07/Spring-Boot/)
+#### M1S07 - Spring - Boot
+ - [M1S07 - Ex. Spring Boot - Coleta Seletiva](/M1S07/Spring-Boot/)
 
+#### M1S08 - Spring - Data
+ - [M1S08 - Ex. Spring Data - Projeto Sustentavel](/M1S08/ProjetoSustentavel/)
+
+### M1S09 - Spring - Criando uma API
+ - [M1S09 - Ex. API Projeto Lixeira Eletronica](/M1S09/ProjetoLixeiraEletronica)
 
 
 
